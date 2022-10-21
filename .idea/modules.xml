@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kp-librarian/kp-librarian.iml" filepath="$PROJECT_DIR$/kp-librarian/kp-librarian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kp-library/kp-library.iml" filepath="$PROJECT_DIR$/kp-library/kp-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/kp-library-root.iml" filepath="$PROJECT_DIR$/.idea/kp-library-root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kp-medium-data/kp-medium-data.iml" filepath="$PROJECT_DIR$/kp-medium-data/kp-medium-data.iml" />
+    </modules>
+  </component>
+</project>
